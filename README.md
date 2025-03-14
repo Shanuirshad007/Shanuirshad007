@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shanuirshad007
-- 👀 I’m interested in php and Wordpress
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on Wordpress Rest API
+- 👀 I’m interested in MERN Stack
+- 🌱 I’m currently learning MERN Stack
+- 💞️ I’m looking to collaborate on MERN Stack
 - 📫 How to reach me Shanu851996@gmail.com
 
 <!---
